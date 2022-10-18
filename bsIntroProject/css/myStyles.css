@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#masthead{
+/*	background-color: purple;*/
+
+background-image: url("../images/bgImages/mountains.jpg");
+background-size: cover;
+background-position: bottom;
+
+}
+
+
+
+#about{
+/*	background-color: purple; */
+	 
+	background-image:url("../images/bgImages/Abstract-blue_0.jpg");
+	background-size: cover
+
+}
+
+#footer{
+	background-color: blue;
+}

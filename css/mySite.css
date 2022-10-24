@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai&family=Modak&display=swap');
+
+#masthead{
+	background-color:#E66902;
+}
+
+h1{
+	font-family: 'Modak', cursive;
+}
+
+p{
+	font-family: 'Arima Madurai', cursive;
+}
+
+#about{
+	background-color: #202DE6;
+}
+
+
+#Fun{
+	background-color:#849959;
+}
+
+#facts{
+	background-color: #9DE60B;
+	font-size: 150%;
+}
+
+#footer{
+	background-color: #E66902;
+}
+
+
+.navbar .nav-item .nav-link{
+	color: #E66902;
+}
+
+
+.navbar .nav-item .nav-link:hover{
+	color: #9DE60B;
+	background-color: #202DE6;
+}
+
+
+
+
+

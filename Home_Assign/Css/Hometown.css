@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Lato&display=swap');
+
+#homeMasthead{
+	background-color: #487294;
+}
+
+h1{
+	font-family: 'Holtwood One SC', serif; 
+}
+
+p{
+	font-family: 'Lato', sans-serif;
+}
+
+.bg-orange{
+	background-color:#D39000;
+	
+}
+
+.bg-grey{
+	background-color:#555555;
+}
+
+/*background image for the whole page add it to the body tag*/
+body{
+	background-image: url("../Images/HometownBackground.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+footer{
+	background-color: #487294; 
+	
+}
+
+
+.nav-item:hover{
+	background-color:#487294 ;
+	transition-duration: 0.5s;
+	
+}
+
+
+
+

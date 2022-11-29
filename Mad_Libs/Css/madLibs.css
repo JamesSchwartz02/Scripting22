@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-image:url("../images/nightSky_bckgrnd.jpg");
+	background-position: center;
+}
+
+.bg-blue{
+	background-color: rgba(24,29,75,0.93);
+}
+
+.bg-purple{
+	background-color: rgba(30,1,62,0.94);
+}
+
+.btn-warning{
+	background-color: #937F18;	
+}
+

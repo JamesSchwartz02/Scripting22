@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg-red{
+	background-color: rgba(191,18,6,1.00);
+	
+}
+
+section{
+	background-color: #0177C1;
+}
+
+#builder{
+	position: relative; 
+	
+}
+
+#NameOut{
+	font-size: 50px;
+}
+
+#head,#metal{
+	position:absolute;
+}
+
+#handle,#wood,#colour{
+	position: relative;
+	bottom: 31px;
+	right: 1px
+}
+
+
+
+a:link{ 
+ color:#066C08;
+}
+
+a:visited{
+	color:#03004B;
+}
+
+a:hover{
+	color:#1FAF03;
+}
